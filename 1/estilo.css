@@ -1,0 +1,18 @@
+button { /*de tipo*/
+	color: red;
+}
+.titulo-h2{/*clases*/
+	color: orange;
+}
+#element{/*id*/
+	color: rosybrown;
+}
+[atrib="se"] {/*por atributo*/
+	color: yellow;
+}
+h4 p {/*descendiente*/
+	color: beige;
+}
+h5:hover{/*pseudoclase*/
+	color: red;
+}
